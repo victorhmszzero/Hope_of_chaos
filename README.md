@@ -1,5 +1,5 @@
 # Hope Of Chaos
-### [⚔️ Clique aqui para jogar <img src="Assets/Latest.png" width = "50">](https://guidev1.github.io/Hope_of_chaos/)
+### [⚔️ Clique aqui para jogar <img src="Assets/Latest.png" width = "50">](https://victorhmszzero.github.io/Hope_of_chaos/Index.html)
 
 
 <img src="Assets/Banner - GitHub.png" width = "100%">
